@@ -6,7 +6,6 @@
 
 - 🕋 Crafting the [Umrah Platform](https://nasvisit.com)
 - ✈️ Develop internal aviation systems [flynas](https://flynas.com)
-- 
 
 ##### BIO
 
