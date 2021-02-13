@@ -4,8 +4,8 @@
 
 ##### ⏱️ NOW
 
-- 🕋  Crafting the [Umrah Platform](https://nasvisit.com)
-- 💺  Develop internal aviation systems @[flynas](https://flynas.com)
+- 🕋  Crafting the [Umrah Platform](https://www.nasvisit.com/)
+- 💺  Develop internal aviation systems @[flynas](https://www.flynas.com/en)
 - ⚓   Hooked in learning new stuff (React, Node, .NET)
 
 ##### 💎 BIO
