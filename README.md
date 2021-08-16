@@ -10,7 +10,7 @@
 
 ##### 💎 BIO
 
-- ⛹️‍ I'm currently working **Engineering Manager** at [**flynas**](https://www.flynas.com/en)
+- ⛹️‍ I'm currently working as an **engineering manager** at [**flynas**](https://www.flynas.com/en)
 - ⚙️ I use daily: `.cs`, `.js`, `.jsx`, `.ts`, `.tsx`, `.html`, `.css`
 - 🌱 Learning all about **.NET**, **React**, **Node**, 🐳 **Docker**, 
 - 💬 Ping me about **web development**
