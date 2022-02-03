@@ -12,6 +12,6 @@
 
 - ⛹️‍ I'm currently working as an **engineering manager** at [**flynas**](https://www.flynas.com/en)
 - ⚙️ I use daily: `.cs`, `.js`, `.jsx`, `.ts`, `.tsx`, `.html`, `.css`
-- 🌱 Learning all about **.NET**, **React**, **Node**, 🐳 **Docker**, 
+- 🌱 Learning all about **.NET**, **React**, **Flutter**, 🐳 **Docker**, 
 - 💬 Ping me about **web development**
 - 📫 Reach me: [@mustafamagdy](https://twitter.com/mustafamagdy)
