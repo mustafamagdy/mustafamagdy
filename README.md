@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-#### I'm an Engineering Manager working in Riyadh, SA.
+#### I'm a Senior Engineering Manager based in Riyadh, SA.
 
 ##### ⏱️ NOW
-
-- 🕋  Crafting the [Umrah Platform](https://www.nasvisit.com/)
-- 💺  Develop internal aviation systems at [flynas](https://www.flynas.com/en)
-- ⚓   Hooked in learning new stuff (React, Node, .NET)
+- 🚀 Leading and mentoring engineering teams at [flynas](https://www.flynas.com/en)
+- 🧠 Diving deep into AI/ML, LLM, and related technologies
+- 🔄 Transitioning from hands-on development to strategic leadership roles
 
 ##### 💎 BIO
-
-- ⛹️‍ I'm currently working as an **engineering manager** at [**flynas**](https://www.flynas.com/en)
-- ⚙️ I use daily: `.cs`, `.js`, `.jsx`, `.ts`, `.tsx`, `.html`, `.css`
-- 🌱 Learning all about **.NET**, **React**, **Flutter**, 🐳 **Docker**, 
-- 💬 Ping me about **web development**
+- 👨‍💼 Currently serving as a **Senior Software Engineering Manager** at [**flynas**](https://www.flynas.com/en)
+- 🤖 Exploring the realms of **Artificial Intelligence**, **Machine Learning**, and **Large Language Models**
+- 🌱 Expanding knowledge in **MLOps**, **AI Ethics**, and **Responsible AI Implementation**
+- 🏗️ Skilled in architecting and overseeing development of scalable systems
+- 💬 Open to discussions about **AI in aviation**, **engineering leadership**, and **tech strategy**
 - 📫 Reach me: [@mustafamagdy](https://twitter.com/mustafamagdy)
