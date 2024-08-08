@@ -1,16 +1,24 @@
-### Hi there 👋
+# Mustafa Magdy Basheer
 
-#### I'm a Senior Engineering Manager based in Riyadh, SA.
+👋 Hi there! I'm Mustafa, a seasoned software engineer with over 18 years of experience in building cutting-edge, cloud-first applications and leading high-performing teams to deliver software solutions that drive commercial success.
 
-##### ⏱️ NOW
-- 🚀 Leading and mentoring engineering teams at [flynas](https://www.flynas.com/en)
-- 🧠 Diving deep into AI/ML, LLM, and related technologies
-- 🔄 Transitioning from hands-on development to strategic leadership roles
+## 🔧 Skills & Expertise
 
-##### 💎 BIO
-- 👨‍💼 Currently serving as a **Senior Software Engineering Manager** at [**flynas**](https://www.flynas.com/en)
-- 🤖 Exploring the realms of **Artificial Intelligence**, **Machine Learning**, and **Large Language Models**
-- 🌱 Expanding knowledge in **MLOps**, **AI Ethics**, and **Responsible AI Implementation**
-- 🏗️ Skilled in architecting and overseeing development of scalable systems
-- 💬 Open to discussions about **AI in aviation**, **engineering leadership**, and **tech strategy**
-- 📫 Reach me: [@mustafamagdy](https://twitter.com/mustafamagdy)
+- **Leadership**: Building and guiding high-performing teams, coaching, and mentorship.
+- **Technical Proficiency**: .NET, .NET Core, REST, ES6, ReactJS, SQL Server, AWS, Docker, Azure DevOps, IIS, Unit Testing.
+- **Workflow**: Git, TFS, Git Flow.
+- **Additional Knowledge**: Masstransit, Node.js, Python, PostgreSQL, MongoDB, React Native, GraphQL, TypeScript, Angular, Azure, Nginx, Google Cloud, Java, Dart, Flutter, MQL.
+
+## 💼 Work Experience
+
+### Sr. Software Development Manager | flynas
+- Direct software development initiatives to meet company objectives.
+- Foster innovation and improve processes, enhancing product quality and team performance.
+
+## 🌐 Find Me Online
+- **LinkedIn**: www.linkedin.com/in/mmagdy
+- **Certifications**: [Verified Certifications](https://www.youracclaim.com/users/mustafamagdy)
+
+---
+
+I'm passionate about coding, leadership, and continuous improvement. Let's connect and collaborate on innovative projects!
